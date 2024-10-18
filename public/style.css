@@ -1,0 +1,34 @@
+#map {
+    height: 500vh;
+    width: 100%;
+}
+h1 {
+    font-family: 'Roboto', sans-serif; /* Aplica la fuente personalizada */
+    font-size: 3em; /* Aumenta el tamaño de la fuente */
+    text-align: center; /* Centra el texto */
+    margin-top: 20px;
+    color: #333;
+}
+
+#map {
+    width: 80%;
+    height: 500px;
+    margin: 20px auto; 
+    border: 2px solid #333;
+    border-radius: 10px;
+}
+
+
+.map-icon {
+    margin-right: 15px;
+}
+
+body{
+    background-color:beige
+}
+
+footer{
+    text-align: center;
+    font-family: 'Roboto', sans-serif; /* Aplica la fuente personalizada */
+    font-size: 1em; /* Aumenta el tamaño de la fuente */
+}
